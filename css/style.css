@@ -1,6 +1,7 @@
 #pweb-h1{
   font-size:12px;
   text-align: center;
+  justify-content: flex-start;
 }
 
 #pweb-h1 li{
@@ -9,5 +10,5 @@
 
 #pweb-img{
   style=height:125px; width:125px;
-  justify-content:flex-end;
+  justify-content:flex-start;
 }
