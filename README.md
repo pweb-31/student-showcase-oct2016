@@ -7,3 +7,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 __Contributors:__
 + Alex Pearson
 + Debra Handley
++ Melody Eye
