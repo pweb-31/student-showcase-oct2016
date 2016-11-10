@@ -1,0 +1,13 @@
+#pweb-h1{
+  font-size:12px;
+  text-align: center;
+}
+
+#pweb-h1 li{
+  list-style-type: none;
+}
+
+#pweb-img{
+  style=height:125px; width:125px;
+  justify-content:flex-end;
+}
